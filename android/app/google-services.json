@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307379733884",
+    "project_id": "machinetask-68eaa",
+    "storage_bucket": "machinetask-68eaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307379733884:android:be0c07a0660a75d64b50f9",
+        "android_client_info": {
+          "package_name": "com.example.dfine_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuW2CLQnUwAKKIeYfhnjxOnQ-4h10e-V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
