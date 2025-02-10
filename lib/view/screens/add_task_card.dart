@@ -26,7 +26,7 @@ class _AddTaskCardState extends State<AddTaskCard> {
     final taskController = Provider.of<TaskController>(context, listen: false);
     return Center(
       child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: size.width * 0.12),
+        padding: EdgeInsets.symmetric(horizontal: size.width * 0.13),
         child: Card(
           color: Colors.white,
           child: Padding(
